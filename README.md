@@ -1,2 +1,2 @@
-# Cyber-Security-For-Absolute-Beginners---2022-Edition---Part-02
-Cyber Security For Absolute Beginners - 2022 Edition - Part 02, by Packt Publishing
+# The Absolute Beginners Guide to Cyber Security 2025 - Part 2
+The Absolute Beginners Guide to Cyber Security 2025 - Part 2, by Packt Publishing
